@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,-----BB PLAYLISTER-----
 #EXTINF:-1,bein_sport_1 http://37.59.51.173:8085/Bein1HD/index.m3u8?token=sib5581bd5c90d04 
 #EXTINF:-1,bein_sport_2 http://37.59.51.173:8085/Bein2HD/index.m3u8?token=sib5581bd5c90d04 
 #EXTINF:-1,bein_sport_3 http://37.59.51.173:8085/Bein3HD/index.m3u8?token=sib5581bd5c90d04 
